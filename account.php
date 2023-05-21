@@ -86,7 +86,7 @@ body {
 
             <div class="py-4 px-4">
                 <div class="d-flex align-items-center justify-content-between mb-3">
-                    <h5 class="mb-0">Recent Captures</h5><a href="#" class="btn btn-link text-muted">Show all</a>
+                    <h5 class="mb-0">Recent Uploads</h5><a href="#" class="btn btn-link text-muted">Show all</a>
                 </div>
                 <div class="row">
                     
@@ -99,7 +99,7 @@ body {
 
             <div class="px-4 py-3">
                 <div class="p-4 rounded shadow-sm bg-light">
-                    <p class="font-italic mb-0">All Rights Reserved. Copyright 2022</p>
+                    <p class="font-italic mb-0">All Rights Reserved. Copyright 2023</p>
                 </div>
             </div>
 
